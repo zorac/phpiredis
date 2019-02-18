@@ -1,8 +1,5 @@
 # Phpiredis #
 
-[![Software license][ico-license]](LICENSE)
-[![Build status][ico-travis]][link-travis]
-
 Phpiredis is an extension for PHP 5.x and 7.x based on [hiredis](https://github.com/redis/hiredis)
 that provides a simple and efficient client for Redis and a fast incremental parser / serializer for
 the [RESP protocol](http://redis.io/topics/protocol).
@@ -91,8 +88,3 @@ just open an issue to discuss it before writing actual code.
 ## License ##
 
 The code for phpiredis is distributed under the terms of the BSD license (see [LICENSE](LICENSE)).
-
-[ico-license]: https://img.shields.io/github/license/nrk/phpiredis.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/nrk/phpiredis.svg?style=flat-square
-
-[link-travis]: https://travis-ci.org/nrk/phpiredis
